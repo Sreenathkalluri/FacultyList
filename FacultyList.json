@@ -1,182 +1,182 @@
 {
     "Sheet1": [
       {
-        "icon":"images/img1.jpg",
+        "icon":"./images/img1.jpg",
         "Name": "Dr. Meeravali Shaikh",
         "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph. D (CSE)",
         "Position": "HOD",
         "Experience": "Experience :13 Years"
       },
       {
-        "icon":"images/img2.jpg",
+        "icon":"./images/img2.jpg",
         "Name": "Dr.Arun Singh Chouhan",
         "Qualification": "B.E (CSE),M. Tech (CSE),Ph. D (CSE)",
         "Position": "Associate Professor",
         "Experience": "Experience :15 Years"
       },
       {
-        "icon":"images/img3.jpg",
+        "icon":"./images/img3.jpg",
         "Name": "Dr.M.Narayanan",
         "Qualification": "B.E (CSE), M.E (CSE),Ph. D (CSE)",
         "Position": "Professor",
         "Experience": "Experience :17 Years"
       },
       {
-        "icon":"images/img4.jpg",
+        "icon":"./images/img4.jpg",
         "Name": "Dr.P.Rambabu",
         "Qualification": "B.Tech(Civil), M. Tech(Remote Sensing),Ph. D(Remote Sensing)",
         "Position": "Professor",
         "Experience": "Experience :20 Years (Industry),13 Years (Teaching)"
       },
       {
-        "icon":"images/img5.jpg",
+        "icon":"./images/img5.jpg",
         "Name": "Dr.M.Ravikanth",
         "Qualification": "B. Tech (CSE), M. Tech (CSE), Ph. D (CSE)",
         "Position": "Associate Professor",
         "Experience": "Experience :17 Years"
       },
       {
-        "icon":"images/img6.jpg",
+        "icon":"./images/img6.jpg",
         "Name": "Dr. T. Phanindra",
         "Qualification": "B. Tech(EEE), M. Tech (EEE), Ph.D (EEE)",
         "Position": "Associate Professor",
         "Experience": "Experience :12 Years"
       },
       {
-        "icon":"images/img7.jpg",
+        "icon":"./images/img7.jpg",
         "Name": "Dr.B.Jogeswara Rao",
         "Qualification": "MSc (Comp), M. Tech (CSE), Ph. D (CSE)",
         "Position": "Associate Professor",
         "Experience": "Experience :13 Years"
       },
       {
-        "icon":"images/img8.jpg",
+        "icon":"./images/img8.jpg",
         "Name": "Dr.M.Santhosh Kumar Goud",
         "Qualification": "B.Tech (EEE), MS(Photonics),Ph. D (EEE)",
         "Position": "Assistant Professor",
         "Experience": "Experience :13 Years"
       },
       {
-        "icon":"images/img9.jpg",
+        "icon":"./images/img9.jpg",
         "Name": "Dr. P. Aurchana",
         "Qualification": "MCA, M. Tech (CSE),Ph. D (CSE)",
         "Position": "Assistant Professor",
         "Experience": "Experience :7 Years (Teaching), 4 Years (Full Ph.D)"
       },
       {
-        "icon":"images/img10.jpg",
+        "icon":"./images/img10.jpg",
         "Name": "Mr. Naveen Kumar Navuri",
         "Qualification": "B. Tech(IT), M. Tech (CSE), Ph.D Pursuing",
         "Position": "Assistant Professor",
         "Experience": "Experience :13 Years"
       },
       {
-        "icon":"images/img11.jpg",
+        "icon":"./images/img11.jpg",
         "Name": "Mr. G. Raju",
         "Qualification": "MCA, M. Tech (CSE),Ph. D Pursuing",
         "Position": "Assistant Professor",
         "Experience": "Experience :13 Years"
       },
       {
-        "icon":"images/img12.jpg",
+        "icon":"./images/img12.jpg",
         "Name": "Mr. M.Krishna Kishore",
         "Qualification": "B. Tech (IT), M. Tech (CSE), Ph. D (Pursuing)",
         "Position": "Assistant Professor",
         "Experience": "Experience :12 Years"
       },
       {
-        "icon":"images/img13.jpg",
+        "icon":"./images/img13.jpg",
         "Name": "Mrs.D.Suneetha",
         "Qualification": "B. Tech (CSE), M. Tech (CSE), Ph. D Pursuing",
         "Position": "Assistant Professor",
         "Experience": "Experience :10 Years"
       },
       {
-        "icon":"images/img14.jpg",
+        "icon":"./images/img14.jpg",
         "Name": "T.Indira Priyadarshini",
         "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph.D (Pursuing)",
         "Position": "Assistant Professor",
         "Experience": "Experience :9.5 Years"
       },
       {
-        "icon":"images/img15.jpg",
+        "icon":"./images/img15.jpg",
         "Name": "Mrs. P.Sabitha",
         "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
         "Position": "Assistant Professor",
         "Experience": "Experience :6.5 Years"
       },
       {
-        "icon":"images/img16.jpg",
+        "icon":"./images/img16.jpg",
         "Name": "Mrs. B. Tejaswi",
         "Qualification": "B. Tech (CSE), M. Tech (CNIS),Ph. D (Pursuing)",
         "Position": "Assistant Professor",
         "Experience": "Experience :10 Years"
       },
       {
-        "icon":"images/img17.jpg",
+        "icon":"./images/img17.jpg",
         "Name": "T.Srajan Kumar",
         "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
         "Position": "Assistant Professor",
         "Experience": "Experience :9 Years"
       },
       {
-        "icon":"images/img18.jpg",
+        "icon":"./images/img18.jpg",
         "Name": "Mr. N.V.Krishna Rao",
         "Qualification": "B. Tech (CSE), M. Tech (CSE),Ph. D (Pursuing)",
         "Position": "Assistant Professor",
         "Experience": "Experience :21 Years"
       },
       {
-        "icon":"images/img19.jpg",
+        "icon":"./images/img19.jpg",
         "Name": "Mrs. P.Shyamala",
         "Qualification": "M. Tech (CSE), MCA",
         "Position": "Assistant Professor",
         "Experience": "Experience :17 Years"
       },
       {
-        "icon":"images/img20.jpg",
+        "icon":"./images/img20.jpg",
         "Name": "Mr. M.Gouthamm",
         "Qualification": "B. Tech (CSE), M. Tech (CSE)",
         "Position": "Assistant Professor",
         "Experience": "Experience :9 Years"
       },
       {
-        "icon":"images/img21.jpg",
+        "icon":"./images/img21.jpg",
         "Name": "M.Mounika",
         "Qualification": "B. Tech (CSIT), M. Tech (CSE)",
         "Position": "Assistant Professor",
         "Experience": "Experience :10 Years"
       },
       {
-        "icon":"images/img22.jpg",
+        "icon":"./images/img22.jpg",
         "Name": "G.Trinadha Rao",
         "Qualification": "MCA, M. Tech (CSE)",
         "Position": "Assistant Professor",
         "Experience": "Experience :10 Years"
       },
       {
-        "icon":"images/img23.jpg",
+        "icon":"./images/img23.jpg",
         "Name": "S.Monika",
         "Qualification": "B. E (CSE), M.E (CSE)",
         "Position": "Assistant Professor",
         "Experience": "Experience :8.8 Years"
       },
       {
-        "icon":"images/img24.jpg",
+        "icon":"./images/img24.jpg",
         "Name": "Mrs. S.Sowmya",
         "Qualification": "B. Tech (CSIT), MS (CSIT)",
         "Position": "Assistant Professor",
         "Experience": "Experience :6 Years"
       },
       {
-        "icon":"images/img25.jpg",
+        "icon":"./images/img25.jpg",
         "Name": "Mrs. K. Manasa",
         "Qualification": "B. Tech (CSE), M. Tech (CSE)",
         "Position": "Assistant Professor",
         "Experience": "Experience :3.5 Years"
       },
       {
-        "icon":"images/img26.jpg",
+        "icon":"./images/img26.jpg",
         "Name": "Mr. G. Kishore Kumar",
         "Qualification": "B. Tech(EEE), M. Tech (EEE)",
         "Position": "Assistant Professor"
